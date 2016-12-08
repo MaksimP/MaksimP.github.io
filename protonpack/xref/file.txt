@@ -1,0 +1,7 @@
+./protonpack/src/main/java/com/codepoetics/protonpack/AggregatingSpliterator.html
+./protonpack/src/main/java/com/codepoetics/protonpack/GroupRunsSpliterator.html
+./protonpack/src/main/java/com/codepoetics/protonpack/WindowedSpliterator.html
+allclasses-frame.html
+index.html
+overview-frame.html
+overview-summary.html
