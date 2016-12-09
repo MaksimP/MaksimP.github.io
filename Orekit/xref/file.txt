@@ -1,7 +1,3 @@
-./Orekit/src/main/java/org/orekit/propagation/analytical/KeplerianPropagator.html
-./Orekit/src/test/java/org/orekit/forces/radiation/SolarRadiationPressureTest.html
-./Orekit/src/test/java/org/orekit/propagation/analytical/EphemerisTest.html
-./Orekit/src/test/java/org/orekit/SolarInputs97to05.html
 allclasses-frame.html
 index.html
 overview-frame.html
