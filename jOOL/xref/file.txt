@@ -1,3 +1,4 @@
+./jOOL/src/test/java/org/jooq/lambda/Utils.html
 allclasses-frame.html
 index.html
 overview-frame.html

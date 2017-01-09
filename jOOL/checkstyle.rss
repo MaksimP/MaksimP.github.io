@@ -23,11 +23,11 @@ under the License.
     <link>${project.url}</link>
     <description>sample - Checkstyle report</description>
     <language>en-us</language>
-    <copyright>&#169;2016</copyright>
+    <copyright>&#169;2017</copyright>
     <item>
       <title>File: 95,
              Errors: 0,
-             Warnings: 0,
+             Warnings: 1,
              Infos: 0
       </title>
             <link>${project.url}/checkstyle.html</link>
@@ -46,7 +46,7 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedBinaryOperator.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedBinaryOperator.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.package-info.java">jOOL/src/main/java/org/jooq/lambda/fi/package-info.java</a>
                 </td>
                 <td>
                   0
@@ -60,7 +60,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.package-info.java">jOOL/src/main/java/org/jooq/lambda/fi/package-info.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedBinaryOperator.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedBinaryOperator.java</a>
                 </td>
                 <td>
                   0
@@ -116,7 +116,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.tuple.Tuple.java">jOOL/src/main/java/org/jooq/lambda/tuple/Tuple.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedUnaryOperator.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedUnaryOperator.java</a>
                 </td>
                 <td>
                   0
@@ -130,7 +130,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedUnaryOperator.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedUnaryOperator.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.tuple.Tuple.java">jOOL/src/main/java/org/jooq/lambda/tuple/Tuple.java</a>
                 </td>
                 <td>
                   0
@@ -242,7 +242,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.tuple.Tuple4.java">jOOL/src/main/java/org/jooq/lambda/tuple/Tuple4.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedObjIntConsumer.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedObjIntConsumer.java</a>
                 </td>
                 <td>
                   0
@@ -256,7 +256,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedObjIntConsumer.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedObjIntConsumer.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.tuple.Tuple4.java">jOOL/src/main/java/org/jooq/lambda/tuple/Tuple4.java</a>
                 </td>
                 <td>
                   0
@@ -298,34 +298,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.function.Function6.java">jOOL/src/main/java/org/jooq/lambda/function/Function6.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.tuple.Tuple8.java">jOOL/src/main/java/org/jooq/lambda/tuple/Tuple8.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedLongPredicate.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedLongPredicate.java</a>
                 </td>
                 <td>
@@ -341,6 +313,34 @@ under the License.
                           <tr>
                 <td>
                   <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedToIntBiFunction.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedToIntBiFunction.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.function.Function6.java">jOOL/src/main/java/org/jooq/lambda/function/Function6.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.tuple.Tuple8.java">jOOL/src/main/java/org/jooq/lambda/tuple/Tuple8.java</a>
                 </td>
                 <td>
                   0
@@ -410,7 +410,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.tuple.Tuple5.java">jOOL/src/main/java/org/jooq/lambda/tuple/Tuple5.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedObjDoubleConsumer.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedObjDoubleConsumer.java</a>
                 </td>
                 <td>
                   0
@@ -424,7 +424,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedObjDoubleConsumer.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedObjDoubleConsumer.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.tuple.Tuple5.java">jOOL/src/main/java/org/jooq/lambda/tuple/Tuple5.java</a>
                 </td>
                 <td>
                   0
@@ -508,7 +508,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.function.Function8.java">jOOL/src/main/java/org/jooq/lambda/function/Function8.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedBiFunction.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedBiFunction.java</a>
                 </td>
                 <td>
                   0
@@ -522,7 +522,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedBiFunction.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedBiFunction.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.function.Function8.java">jOOL/src/main/java/org/jooq/lambda/function/Function8.java</a>
                 </td>
                 <td>
                   0
@@ -634,7 +634,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedDoublePredicate.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedDoublePredicate.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.lang.CheckedRunnable.java">jOOL/src/main/java/org/jooq/lambda/fi/lang/CheckedRunnable.java</a>
                 </td>
                 <td>
                   0
@@ -648,7 +648,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.lang.CheckedRunnable.java">jOOL/src/main/java/org/jooq/lambda/fi/lang/CheckedRunnable.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedDoublePredicate.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedDoublePredicate.java</a>
                 </td>
                 <td>
                   0
@@ -676,20 +676,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedToIntFunction.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedToIntFunction.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedIntFunction.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedIntFunction.java</a>
                 </td>
                 <td>
@@ -704,7 +690,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.tuple.Tuple7.java">jOOL/src/main/java/org/jooq/lambda/tuple/Tuple7.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedToIntFunction.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedToIntFunction.java</a>
                 </td>
                 <td>
                   0
@@ -732,7 +718,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedToDoubleFunction.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedToDoubleFunction.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.tuple.Tuple7.java">jOOL/src/main/java/org/jooq/lambda/tuple/Tuple7.java</a>
                 </td>
                 <td>
                   0
@@ -760,6 +746,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedToDoubleFunction.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedToDoubleFunction.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedIntPredicate.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedIntPredicate.java</a>
                 </td>
                 <td>
@@ -774,7 +774,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.function.Function2.java">jOOL/src/main/java/org/jooq/lambda/function/Function2.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedDoubleFunction.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedDoubleFunction.java</a>
                 </td>
                 <td>
                   0
@@ -788,7 +788,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedDoubleFunction.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedDoubleFunction.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.function.Function2.java">jOOL/src/main/java/org/jooq/lambda/function/Function2.java</a>
                 </td>
                 <td>
                   0
@@ -844,7 +844,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.Seq.java">jOOL/src/main/java/org/jooq/lambda/Seq.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.package-info.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/package-info.java</a>
                 </td>
                 <td>
                   0
@@ -858,7 +858,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.package-info.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/package-info.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.Seq.java">jOOL/src/main/java/org/jooq/lambda/Seq.java</a>
                 </td>
                 <td>
                   0
@@ -956,20 +956,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedSupplier.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedSupplier.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedIntToDoubleFunction.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedIntToDoubleFunction.java</a>
                 </td>
                 <td>
@@ -985,6 +971,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedIntToLongFunction.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedIntToLongFunction.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedSupplier.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedSupplier.java</a>
                 </td>
                 <td>
                   0
@@ -1068,7 +1068,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.package-info.java">jOOL/src/main/java/org/jooq/lambda/fi/util/package-info.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedDoubleBinaryOperator.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedDoubleBinaryOperator.java</a>
                 </td>
                 <td>
                   0
@@ -1082,7 +1082,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedDoubleBinaryOperator.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedDoubleBinaryOperator.java</a>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.package-info.java">jOOL/src/main/java/org/jooq/lambda/fi/util/package-info.java</a>
                 </td>
                 <td>
                   0
@@ -1144,7 +1144,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  1
                 </td>
                 <td>
                   0
@@ -1250,20 +1250,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.FunctionalSpliterator.java">jOOL/src/main/java/org/jooq/lambda/FunctionalSpliterator.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedPredicate.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedPredicate.java</a>
                 </td>
                 <td>
@@ -1278,7 +1264,35 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.FunctionalSpliterator.java">jOOL/src/main/java/org/jooq/lambda/FunctionalSpliterator.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.function.Function1.java">jOOL/src/main/java/org/jooq/lambda/function/Function1.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedLongBinaryOperator.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedLongBinaryOperator.java</a>
                 </td>
                 <td>
                   0
@@ -1307,20 +1321,6 @@ under the License.
                           <tr>
                 <td>
                   <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.tuple.Tuple0.java">jOOL/src/main/java/org/jooq/lambda/tuple/Tuple0.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#jOOL.src.main.java.org.jooq.lambda.fi.util.function.CheckedLongBinaryOperator.java">jOOL/src/main/java/org/jooq/lambda/fi/util/function/CheckedLongBinaryOperator.java</a>
                 </td>
                 <td>
                   0

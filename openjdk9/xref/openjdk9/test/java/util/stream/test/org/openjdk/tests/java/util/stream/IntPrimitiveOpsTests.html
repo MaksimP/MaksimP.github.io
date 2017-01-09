@@ -205,11 +205,11 @@
 <a class="jxr_linenumber" name="L197" href="#L197">197</a> 
 <a class="jxr_linenumber" name="L198" href="#L198">198</a>         <strong class="jxr_keyword">int</strong>[] expected = IntStream.range(1, 1000).toArray();
 <a class="jxr_linenumber" name="L199" href="#L199">199</a> 
-<a class="jxr_linenumber" name="L200" href="#L200">200</a>         <strong class="jxr_keyword">class</strong> <a href="../../../../../../org/openjdk/tests/java/util/stream/IntPrimitiveOpsTests.html">AssertingConsumer</a> <strong class="jxr_keyword">implements</strong> <a href="../../../../../../java/util/function/IntConsumer.html">IntConsumer</a> {
+<a class="jxr_linenumber" name="L200" href="#L200">200</a>         <strong class="jxr_keyword">class</strong> <a href="../../../../../../org/openjdk/tests/java/util/stream/LongPrimitiveOpsTests.html">AssertingConsumer</a> <strong class="jxr_keyword">implements</strong> <a href="../../../../../../java/util/function/IntConsumer.html">IntConsumer</a> {
 <a class="jxr_linenumber" name="L201" href="#L201">201</a>             <strong class="jxr_keyword">private</strong> <strong class="jxr_keyword">final</strong> <strong class="jxr_keyword">int</strong>[] array;
 <a class="jxr_linenumber" name="L202" href="#L202">202</a>             <strong class="jxr_keyword">int</strong> offset;
 <a class="jxr_linenumber" name="L203" href="#L203">203</a> 
-<a class="jxr_linenumber" name="L204" href="#L204">204</a>             <a href="../../../../../../org/openjdk/tests/java/util/stream/IntPrimitiveOpsTests.html">AssertingConsumer</a>(<strong class="jxr_keyword">int</strong>[] array) {
+<a class="jxr_linenumber" name="L204" href="#L204">204</a>             <a href="../../../../../../org/openjdk/tests/java/util/stream/LongPrimitiveOpsTests.html">AssertingConsumer</a>(<strong class="jxr_keyword">int</strong>[] array) {
 <a class="jxr_linenumber" name="L205" href="#L205">205</a>                 <strong class="jxr_keyword">this</strong>.array = array;
 <a class="jxr_linenumber" name="L206" href="#L206">206</a>             }
 <a class="jxr_linenumber" name="L207" href="#L207">207</a> 
@@ -222,13 +222,13 @@
 <a class="jxr_linenumber" name="L214" href="#L214">214</a>         }
 <a class="jxr_linenumber" name="L215" href="#L215">215</a> 
 <a class="jxr_linenumber" name="L216" href="#L216">216</a>         {
-<a class="jxr_linenumber" name="L217" href="#L217">217</a>             <a href="../../../../../../org/openjdk/tests/java/util/stream/IntPrimitiveOpsTests.html">AssertingConsumer</a> consumer = <strong class="jxr_keyword">new</strong> <a href="../../../../../../org/openjdk/tests/java/util/stream/IntPrimitiveOpsTests.html">AssertingConsumer</a>(expected);
+<a class="jxr_linenumber" name="L217" href="#L217">217</a>             <a href="../../../../../../org/openjdk/tests/java/util/stream/LongPrimitiveOpsTests.html">AssertingConsumer</a> consumer = <strong class="jxr_keyword">new</strong> <a href="../../../../../../org/openjdk/tests/java/util/stream/LongPrimitiveOpsTests.html">AssertingConsumer</a>(expected);
 <a class="jxr_linenumber" name="L218" href="#L218">218</a>             IntStream.range(1, 1000).sequential().forEach(consumer);
 <a class="jxr_linenumber" name="L219" href="#L219">219</a>             assertEquals(expected.length, consumer.getCount());
 <a class="jxr_linenumber" name="L220" href="#L220">220</a>         }
 <a class="jxr_linenumber" name="L221" href="#L221">221</a> 
 <a class="jxr_linenumber" name="L222" href="#L222">222</a>         {
-<a class="jxr_linenumber" name="L223" href="#L223">223</a>             <a href="../../../../../../org/openjdk/tests/java/util/stream/IntPrimitiveOpsTests.html">AssertingConsumer</a> consumer = <strong class="jxr_keyword">new</strong> <a href="../../../../../../org/openjdk/tests/java/util/stream/IntPrimitiveOpsTests.html">AssertingConsumer</a>(expected);
+<a class="jxr_linenumber" name="L223" href="#L223">223</a>             <a href="../../../../../../org/openjdk/tests/java/util/stream/LongPrimitiveOpsTests.html">AssertingConsumer</a> consumer = <strong class="jxr_keyword">new</strong> <a href="../../../../../../org/openjdk/tests/java/util/stream/LongPrimitiveOpsTests.html">AssertingConsumer</a>(expected);
 <a class="jxr_linenumber" name="L224" href="#L224">224</a>             IntStream.range(1, 1000).parallel().sequential().forEach(consumer);
 <a class="jxr_linenumber" name="L225" href="#L225">225</a>             assertEquals(expected.length, consumer.getCount());
 <a class="jxr_linenumber" name="L226" href="#L226">226</a>         }
@@ -251,6 +251,6 @@
 <a class="jxr_linenumber" name="L243" href="#L243">243</a> }
 </pre>
 <hr/>
-<div id="footer">Copyright &#169; 2016. All rights reserved.</div>
+<div id="footer">Copyright &#169; 2017. All rights reserved.</div>
 </body>
 </html>
